@@ -6,6 +6,17 @@ A lightweight Windows music player built around YouTube playback, designed to fe
 
 Learning Pap’s 1.0 is the first public release.
 
+## Screenshots
+
+### Search
+![Learning Pap’s search screen](screenshots/search.jpg)
+
+### Album / Playlist View
+![Learning Pap’s album and playlist view](screenshots/album.jpg)
+
+### Library
+![Learning Pap’s library](screenshots/library.jpg)
+
 ### Highlights
 
 - Fast in-app YouTube search
